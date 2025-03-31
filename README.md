@@ -1,3 +1,6 @@
+[![Vizualizează video-ul](![image](https://github.com/user-attachments/assets/fccbb19f-1cf1-4ae8-8d8a-3d66f1c2dd9b))]([https://www.youtube.com/linkul-tau](https://youtu.be/nNAKXRzLkfU))
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
