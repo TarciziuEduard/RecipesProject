@@ -1,3 +1,6 @@
+# GUSTIX 
+A responsive web application built with React and TypeScript that allows users to explore, search, and filter recipes from around the world. Users can view detailed cooking instructions, ingredients, flags for countries of origin, and YouTube tutorials. The app integrates with TheMealDB API and includes features like dynamic filters, pagination, and a modern, user-friendly design.
+
 [Watch video](https://youtu.be/nNAKXRzLkfU)
 [![Watch video](https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263)](https://youtu.be/nNAKXRzLkfU)
 
