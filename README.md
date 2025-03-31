@@ -1,7 +1,5 @@
-
+                                               [Watch video](https://youtu.be/nNAKXRzLkfU)
 [![Watch video](https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263)](https://youtu.be/nNAKXRzLkfU)
-
-[Watch video](https://youtu.be/nNAKXRzLkfU)
 
 
 # Getting Started with Create React App
