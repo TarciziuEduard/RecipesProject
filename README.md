@@ -1,5 +1,10 @@
 [![Vizualizează video-ul](https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263)](https://youtu.be/nNAKXRzLkfU)
-
+<figure>
+  <a href="https://youtu.be/nNAKXRzLkfU">
+    <img src="https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263" alt="Vizualizează video-ul">
+  </a>
+  <figcaption>Vizualizează video-ul</figcaption>
+</figure>
 
 
 # Getting Started with Create React App
