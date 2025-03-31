@@ -1,5 +1,6 @@
-[![Vizualizează video-ul](thumbnail.jpg)](https://youtu.be/nNAKXRzLkfU)
+[![Vizualizează video-ul](https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263)](https://youtu.be/nNAKXRzLkfU)
 
+![recipes](https://github.com/user-attachments/assets/7cd037cf-40d3-4f62-9735-651c7dde1263)
 
 
 # Getting Started with Create React App
